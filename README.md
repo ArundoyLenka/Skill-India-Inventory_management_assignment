@@ -3,7 +3,7 @@
 #Project-Definition:
 I've pre-defined a dictionary{}. 
 I could've asked the user for input but it would've been hectic, since it's a 20-elements long dictionary{}.
-But I've tried to give the user a bit of free space by making changes such as add/update/replace the elements.(by use of simple if-elif-else condition)
+But I've tried to give the user a bit of free space by making changes to the pre-defined dictionary{} such as add/update/replace the elements.(by use of simple if-elif-else condition)
 I've then defined a variable record and converted the pre-defined dictionary{} into a record.json file. 
 I've also tried calculating sales by sum() method and tried to add Total_sales(total_items*total_price) to the dictionary as a new-end-element.
 Then, I've defined a sales variable and imported json to convert the updated_shopping_list into a sales.json file.
